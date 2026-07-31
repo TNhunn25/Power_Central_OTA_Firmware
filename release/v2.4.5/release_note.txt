@@ -1,0 +1,15 @@
+Power Central v2.4.5
+
+Date: 2026-07-31 11:26:27 +07:00
+Device_ID: 88416, PDM_88416
+Firmware: Power_Central_Ver2.4.5.bin
+SHA256: 8473A725A1AF0DAA172DF3A2086A618E6734E76764DBF1F1CA752CC82B6CCCA7
+
+Changes:
+- Release OTA
+
+Checks:
+- FW_VERSION matches release version.
+- Firmware copied to release/v2.4.5/.
+- Firmware copied to latest/Power_Central_Ver2.4.5.bin.
+- SHA256 written to version_power_central.txt.
